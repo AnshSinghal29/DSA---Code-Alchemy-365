@@ -45,7 +45,7 @@ class TreeNode {
     }
 }
 
-public class Sol1 {
+public class LCABinarySearchTree {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
         if (p.val < root.val && q.val < root.val) {
             return lowestCommonAncestor(root.left, p, q);
