@@ -61,6 +61,7 @@ class BalancedBinarytree {
 
           // Check height of left subtree
           int leftHeight = checkHeight(node.left);
+
           if (leftHeight == -1)
                return -1;
 
