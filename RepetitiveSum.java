@@ -1,3 +1,4 @@
+
 /**
 // 
  * [Problem] Sum of Repetitiv
@@ -47,10 +48,10 @@ class RepetitiveSum {
 
     public static void main(String[] args) {
         RepetitiveSum calculator = new RepetitiveSum();
-        
+
         // Example: 1 and 2 are repetitive. 1+2 = 3.
-        int[] nums = {1, 1, 2, 2, 3, 4, 5}; 
-        
+        int[] nums = { 1, 1, 2, 2, 3, 4, 5 };
+
         int result = calculator.sumOfRepetitiveElements(nums);
         System.out.println("Sum of repetitive elements: " + result);
     }
