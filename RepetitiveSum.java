@@ -1,7 +1,7 @@
 
 /**
 // 
- * [Problem] Sum of Repetitiv
+ * [Problem] Sum of Repetitive/
  * INTUITION:
  * We need to find the sum of all elements that appear more than once in the array.
  * By using a HashMap to store frequencies, we can easily identify which numbers 
