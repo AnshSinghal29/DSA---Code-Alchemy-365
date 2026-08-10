@@ -15,6 +15,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0088-merge-sorted-array](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0240-search-a-2d-matrix-ii) |
 | [0905-sort-array-by-parity](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0977-squares-of-a-sorted-array) |
@@ -54,6 +55,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0240-search-a-2d-matrix-ii) |
 ## String
 |  |
 | ------- |
@@ -81,6 +83,11 @@ A curated collection of daily algorithmic challenges and data structure implemen
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0240-search-a-2d-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1260-shift-2d-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/2022-convert-1d-array-into-2d-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
