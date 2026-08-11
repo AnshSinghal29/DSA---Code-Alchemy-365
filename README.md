@@ -10,6 +10,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0015-3sum](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0018-4sum) |
+| [0048-rotate-image](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0088-merge-sorted-array) |
@@ -82,10 +83,12 @@ A curated collection of daily algorithmic challenges and data structure implemen
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0066-plus-one) |
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0048-rotate-image) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0498-diagonal-traverse) |
 | [1260-shift-2d-grid](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1260-shift-2d-grid) |
