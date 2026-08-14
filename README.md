@@ -86,6 +86,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0066-plus-one) |
 ## Matrix
