@@ -6,6 +6,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0016-3sum-closest) |
@@ -105,5 +106,6 @@ A curated collection of daily algorithmic challenges and data structure implemen
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
