@@ -12,6 +12,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0016-3sum-closest](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0018-4sum) |
 | [0048-rotate-image](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0048-rotate-image) |
+| [0056-merge-intervals](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0075-sort-colors) |
@@ -54,6 +55,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0015-3sum](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0088-merge-sorted-array) |
 | [0561-array-partition](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0561-array-partition) |
@@ -122,4 +124,8 @@ A curated collection of daily algorithmic challenges and data structure implemen
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
