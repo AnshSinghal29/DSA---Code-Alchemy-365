@@ -13,6 +13,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0018-4sum](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0018-4sum) |
 | [0048-rotate-image](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0075-sort-colors) |
