@@ -21,6 +21,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0118-pascals-triangle](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0240-search-a-2d-matrix-ii) |
+| [0435-non-overlapping-intervals](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0435-non-overlapping-intervals) |
 | [0498-diagonal-traverse](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0498-diagonal-traverse) |
 | [0561-array-partition](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0561-array-partition) |
 | [0766-toeplitz-matrix](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0766-toeplitz-matrix) |
@@ -59,6 +60,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0056-merge-intervals](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0088-merge-sorted-array) |
+| [0435-non-overlapping-intervals](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0922-sort-array-by-parity-ii) |
@@ -78,10 +80,12 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | ------- |
 | [0118-pascals-triangle](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0561-array-partition) |
 ## Simulation
 |  |
