@@ -82,6 +82,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | ------- |
 | [0179-largest-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0179-largest-number) |
 | [0392-is-subsequence](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0392-is-subsequence) |
+| [0796-rotate-string](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0796-rotate-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -142,4 +143,8 @@ A curated collection of daily algorithmic challenges and data structure implemen
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0056-merge-intervals) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
