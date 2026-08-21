@@ -80,6 +80,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0013-roman-to-integer) |
 | [0179-largest-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0179-largest-number) |
 | [0392-is-subsequence](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0392-is-subsequence) |
 | [0796-rotate-string](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0796-rotate-string) |
@@ -109,6 +110,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0066-plus-one) |
 ## Matrix
@@ -130,6 +132,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0073-set-matrix-zeroes) |
 ## Counting Sort
 |  |
