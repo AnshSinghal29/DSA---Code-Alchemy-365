@@ -51,6 +51,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0075-sort-colors](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0392-is-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0905-sort-array-by-parity) |
@@ -120,6 +121,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0013-roman-to-integer](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0202-happy-number) |
 ## Matrix
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0001-two-sum](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0073-set-matrix-zeroes) |
+| [0202-happy-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0349-intersection-of-two-arrays) |
 ## Counting Sort
 |  |
@@ -170,4 +173,8 @@ A curated collection of daily algorithmic challenges and data structure implemen
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0002-add-two-numbers) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
