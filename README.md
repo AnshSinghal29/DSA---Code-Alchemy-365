@@ -43,6 +43,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0016-3sum-closest) |
@@ -86,6 +87,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0014-longest-common-prefix) |
 | [0179-largest-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0179-largest-number) |
@@ -94,6 +96,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0435-non-overlapping-intervals) |
@@ -177,4 +180,8 @@ A curated collection of daily algorithmic challenges and data structure implemen
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0202-happy-number) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
