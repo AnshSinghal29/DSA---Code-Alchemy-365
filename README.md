@@ -26,6 +26,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0169-majority-element](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0435-non-overlapping-intervals) |
@@ -201,4 +202,8 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | ------- |
 | [0169-majority-element](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0229-majority-element-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
