@@ -80,6 +80,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0169-majority-element](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -102,6 +103,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0013-roman-to-integer](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0014-longest-common-prefix) |
 | [0179-largest-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0392-is-subsequence) |
 | [0796-rotate-string](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0796-rotate-string) |
 ## Dynamic Programming
@@ -163,6 +165,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0169-majority-element](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0349-intersection-of-two-arrays) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Counting Sort
