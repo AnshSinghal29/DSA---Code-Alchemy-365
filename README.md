@@ -45,6 +45,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [2022-convert-1d-array-into-2d-array](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Two Pointers
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [1260-shift-2d-grid](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1572-matrix-diagonal-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/2022-convert-1d-array-into-2d-array) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0202-happy-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0349-intersection-of-two-arrays) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Counting Sort
 |  |
 | ------- |
@@ -214,8 +217,13 @@ A curated collection of daily algorithmic challenges and data structure implemen
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0287-find-the-duplicate-number) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Pigeonhole Principle
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0287-find-the-duplicate-number) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
