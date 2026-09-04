@@ -101,6 +101,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0014-longest-common-prefix) |
 | [0179-largest-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0179-largest-number) |
@@ -111,6 +112,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0010-regular-expression-matching) |
 | [0118-pascals-triangle](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0435-non-overlapping-intervals) |
@@ -202,6 +204,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0010-regular-expression-matching) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
