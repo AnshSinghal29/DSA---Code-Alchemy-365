@@ -1,0 +1,29 @@
+class Solution {
+    public boolean canConstruct(String ransomNote, String magazine) {
+        // Edge case: Ransom note cannot be formed if it's longer than the magazine
+        if (ransomNote.length() > magazine.length()) {
+            return false;
+        }
+
+        // Array to store counts of characters in the magazine
+        int[] charCounts = new int[26];
+
+        // Count occurrences of each character in the magazine
+        for (int i = 0; i < magazine.length(); i++) {
+            charCounts[magazine.charAt(i) - 'a']++;
+        }
+
+        // Deduct characters needed for the ransom note
+        for (int i = 0; i < ransomNote.length(); i++) {
+            int index = ransomNote.charAt(i) - 'a';
+            charCounts[index]--;
+
+            // If a character's count drops below 0, the magazine lacks enough instances
+            if (charCounts[index] < 0) {
+                return false;
+            }
+        }
+
+        return true;
+    }
+}
