@@ -1,0 +1,17 @@
+class Solution {
+    public boolean repeatedSubstringPattern(String s) {
+        // If s is null or too short to have a repeating pattern, return false
+        if (s == null || s.length() < 2) {
+            return false;
+        }
+
+        // 1. Create a doubled string: s + s
+        String doubled = s + s;
+
+        // 2. Strip the first character and the last character
+        String inner = doubled.substring(1, doubled.length() - 1);
+
+        // 3. If s can be found inside the remaining part, it has a repeating pattern
+        return inner.contains(s);
+    }
+}
