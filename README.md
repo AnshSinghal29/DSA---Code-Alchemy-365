@@ -22,6 +22,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0179-largest-number) |
@@ -126,6 +127,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0005-longest-palindromic-substring](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0010-regular-expression-matching) |
 | [0118-pascals-triangle](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0435-non-overlapping-intervals) |
 | [1137-n-th-tribonacci-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1137-n-th-tribonacci-number) |
