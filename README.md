@@ -130,6 +130,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0010-regular-expression-matching) |
+| [0070-climbing-stairs](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -163,6 +164,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0013-roman-to-integer](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0202-happy-number) |
 | [1137-n-th-tribonacci-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1137-n-th-tribonacci-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3875-construct-uniform-parity-array-i) |
@@ -262,6 +264,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1137-n-th-tribonacci-number) |
 ## Backtracking
 |  |
