@@ -1,0 +1,49 @@
+import java.util.PriorityQueue;
+
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
+class Solution {
+    public ListNode mergeKLists(ListNode[] lists) {
+        // Edge cases: if the array is empty or null, return null
+        if (lists == null || lists.length == 0) {
+            return null;
+        }
+
+        // Initialize a Min-Heap based on node values
+        PriorityQueue<ListNode> minHeap = new PriorityQueue<>((a, b) -> Integer.compare(a.val, b.val));
+
+        // Add the head node of each non-empty linked list to the heap
+        for (ListNode root : lists) {
+            if (root != null) {
+                minHeap.add(root);
+            }
+        }
+
+        // Dummy node acts as the entry anchor for the merged result list
+        ListNode dummy = new ListNode(0);
+        ListNode tail = dummy;
+
+        // Process nodes until the heap is empty
+        while (!minHeap.isEmpty()) {
+            // Extract the node with the lowest value
+            ListNode smallestNode = minHeap.poll();
+            tail.next = smallestNode;
+            tail = tail.next;
+
+            // If the extracted node has a next element, push it into the heap
+            if (smallestNode.next != null) {
+                minHeap.add(smallestNode.next);
+            }
+        }
+
+        return dummy.next;
+    }
+}
