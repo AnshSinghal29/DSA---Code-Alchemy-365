@@ -21,6 +21,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0075-sort-colors](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -257,6 +258,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0287-find-the-duplicate-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Pigeonhole Principle
@@ -276,6 +278,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0090-subsets-ii](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0090-subsets-ii) |
 ## Z Algorithm
 |  |
 | ------- |
