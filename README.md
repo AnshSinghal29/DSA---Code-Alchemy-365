@@ -123,6 +123,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0242-valid-anagram](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0796-rotate-string) |
@@ -203,12 +204,14 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0229-majority-element-ii](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0387-first-unique-character-in-a-string) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Counting Sort
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0561-array-partition) |
 ## Heap (Priority Queue)
 |  |
@@ -295,4 +298,8 @@ A curated collection of daily algorithmic challenges and data structure implemen
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0062-unique-paths) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
