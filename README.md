@@ -19,6 +19,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0066-plus-one](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0090-subsets-ii) |
@@ -265,6 +266,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0287-find-the-duplicate-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -285,6 +287,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0078-subsets](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0090-subsets-ii) |
 ## Z Algorithm
 |  |
