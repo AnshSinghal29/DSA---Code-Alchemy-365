@@ -13,6 +13,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0016-3sum-closest](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0057-insert-interval) |
@@ -105,6 +106,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0287-find-the-duplicate-number) |
