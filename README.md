@@ -107,6 +107,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0287-find-the-duplicate-number) |
@@ -176,6 +177,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0048-rotate-image](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0202-happy-number) |
 | [1137-n-th-tribonacci-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1137-n-th-tribonacci-number) |
@@ -311,4 +313,8 @@ A curated collection of daily algorithmic challenges and data structure implemen
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0387-first-unique-character-in-a-string) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
