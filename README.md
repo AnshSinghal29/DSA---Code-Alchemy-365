@@ -21,6 +21,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0073-set-matrix-zeroes](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0090-subsets-ii) |
@@ -122,6 +123,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0044-wildcard-matching) |
+| [0079-word-search](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0179-largest-number) |
@@ -187,6 +189,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | ------- |
 | [0048-rotate-image](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0498-diagonal-traverse) |
 | [0766-toeplitz-matrix](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0766-toeplitz-matrix) |
@@ -294,6 +297,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0078-subsets](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0090-subsets-ii) |
 ## Z Algorithm
 |  |
@@ -319,4 +323,8 @@ A curated collection of daily algorithmic challenges and data structure implemen
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0069-sqrtx) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
