@@ -124,6 +124,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0044-wildcard-matching) |
 | [0079-word-search](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0179-largest-number) |
@@ -144,6 +145,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0044-wildcard-matching](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
