@@ -252,6 +252,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0002-add-two-numbers](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0024-swap-nodes-in-pairs) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
 | ------- |
