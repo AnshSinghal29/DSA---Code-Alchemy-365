@@ -124,6 +124,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0044-wildcard-matching) |
+| [0058-length-of-last-word](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0125-valid-palindrome) |
