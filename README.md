@@ -181,6 +181,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0007-reverse-integer](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0066-plus-one) |
@@ -281,6 +282,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0287-find-the-duplicate-number) |
