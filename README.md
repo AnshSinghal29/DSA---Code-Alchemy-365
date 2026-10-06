@@ -13,6 +13,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0016-3sum-closest](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0056-merge-intervals) |
@@ -110,6 +111,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0081-search-in-rotated-sorted-array-ii) |
