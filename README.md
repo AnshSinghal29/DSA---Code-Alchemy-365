@@ -36,6 +36,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0179-largest-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0349-intersection-of-two-arrays) |
@@ -240,6 +241,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quicksort
 |  |
@@ -333,6 +335,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0387-first-unique-character-in-a-string) |
 ## Newton's Method
 |  |
@@ -346,4 +349,16 @@ A curated collection of daily algorithmic challenges and data structure implemen
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0278-first-bad-version) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
