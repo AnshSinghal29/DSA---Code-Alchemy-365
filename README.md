@@ -46,6 +46,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0561-array-partition](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0766-toeplitz-matrix) |
+| [0875-koko-eating-bananas](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0977-squares-of-a-sorted-array) |
@@ -122,6 +123,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0287-find-the-duplicate-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0875-koko-eating-bananas) |
 ## String
 |  |
 | ------- |
