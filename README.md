@@ -50,6 +50,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0905-sort-array-by-parity](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0977-squares-of-a-sorted-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1260-shift-2d-grid) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -124,6 +125,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0349-intersection-of-two-arrays](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## String
 |  |
 | ------- |
