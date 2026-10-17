@@ -58,6 +58,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [2022-convert-1d-array-into-2d-array](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -111,6 +112,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0922-sort-array-by-parity-ii](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -234,6 +236,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0242-valid-anagram](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0387-first-unique-character-in-a-string) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Counting Sort
 |  |
