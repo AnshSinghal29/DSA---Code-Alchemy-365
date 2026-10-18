@@ -54,6 +54,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [1260-shift-2d-grid](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1260-shift-2d-grid) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1572-matrix-diagonal-sum](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1572-matrix-diagonal-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -169,6 +170,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0392-is-subsequence](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0435-non-overlapping-intervals) |
 | [1137-n-th-tribonacci-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1137-n-th-tribonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Greedy
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0070-climbing-stairs](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0202-happy-number) |
 | [1137-n-th-tribonacci-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1137-n-th-tribonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
 |  |
@@ -222,6 +225,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | ------- |
 | [0169-majority-element](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0240-search-a-2d-matrix-ii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Hash Table
 |  |
 | ------- |
@@ -316,6 +320,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | ------- |
 | [0070-climbing-stairs](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1137-n-th-tribonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Backtracking
 |  |
 | ------- |
@@ -339,6 +344,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Queue
 |  |
 | ------- |
@@ -368,4 +374,24 @@ A curated collection of daily algorithmic challenges and data structure implemen
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0239-sliding-window-maximum) |
+## Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
