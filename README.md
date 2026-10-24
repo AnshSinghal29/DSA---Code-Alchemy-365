@@ -157,6 +157,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0680-valid-palindrome-ii](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0796-rotate-string) |
 | [1768-merge-strings-alternately](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1768-merge-strings-alternately) |
+| [2409-count-days-spent-together](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/2409-count-days-spent-together) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -209,6 +210,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0202-happy-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0202-happy-number) |
 | [1137-n-th-tribonacci-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1137-n-th-tribonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2409-count-days-spent-together](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/2409-count-days-spent-together) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
 |  |
