@@ -51,6 +51,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0922-sort-array-by-parity-ii](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1254-number-of-closed-islands](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1260-shift-2d-grid) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -221,6 +222,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0240-search-a-2d-matrix-ii](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0498-diagonal-traverse) |
 | [0766-toeplitz-matrix](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0766-toeplitz-matrix) |
+| [1254-number-of-closed-islands](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1572-matrix-diagonal-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -319,6 +321,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 ## Breadth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Memoization
 |  |
@@ -363,6 +366,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 |  |
 | ------- |
 | [0079-word-search](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0079-word-search) |
+| [1254-number-of-closed-islands](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1254-number-of-closed-islands) |
 ## Interactive
 |  |
 | ------- |
@@ -386,6 +390,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
