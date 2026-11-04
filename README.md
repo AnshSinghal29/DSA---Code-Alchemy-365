@@ -63,6 +63,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [2089-find-target-indices-after-sorting-array](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3875-construct-uniform-parity-array-i) |
@@ -180,6 +181,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0435-non-overlapping-intervals](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0435-non-overlapping-intervals) |
 | [1137-n-th-tribonacci-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1137-n-th-tribonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
 |  |
@@ -219,6 +221,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [1137-n-th-tribonacci-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1137-n-th-tribonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/2409-count-days-spent-together) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
 |  |
@@ -255,6 +258,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0242-valid-anagram](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0387-first-unique-character-in-a-string) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Counting Sort
@@ -269,6 +273,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Quicksort
 |  |
 | ------- |
@@ -384,6 +389,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0239-sliding-window-maximum) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Monotonic Queue
 |  |
 | ------- |
