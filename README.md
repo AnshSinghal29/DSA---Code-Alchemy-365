@@ -59,6 +59,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1572-matrix-diagonal-sum](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1572-matrix-diagonal-sum) |
+| [1882-process-tasks-using-servers](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1882-process-tasks-using-servers) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -273,6 +274,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1882-process-tasks-using-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Quicksort
 |  |
