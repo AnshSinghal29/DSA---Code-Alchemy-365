@@ -45,6 +45,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0498-diagonal-traverse](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0498-diagonal-traverse) |
+| [0540-single-element-in-a-sorted-array](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0766-toeplitz-matrix) |
@@ -138,6 +139,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0278-first-bad-version](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0349-intersection-of-two-arrays) |
+| [0540-single-element-in-a-sorted-array](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1011-capacity-to-ship-packages-within-d-days) |
