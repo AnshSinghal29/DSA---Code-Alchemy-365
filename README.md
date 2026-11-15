@@ -57,6 +57,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [1260-shift-2d-grid](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1260-shift-2d-grid) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1572-matrix-diagonal-sum](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1572-matrix-diagonal-sum) |
 | [1882-process-tasks-using-servers](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1882-process-tasks-using-servers) |
@@ -183,6 +184,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0392-is-subsequence](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0435-non-overlapping-intervals) |
 | [1137-n-th-tribonacci-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1137-n-th-tribonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -222,6 +224,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1137-n-th-tribonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/2409-count-days-spent-together) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -323,6 +326,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0238-product-of-array-except-self) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3364-minimum-positive-sum-subarray) |
 ## Bit Manipulation
 |  |
