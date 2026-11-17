@@ -103,6 +103,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [1768-merge-strings-alternately](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Sorting
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0796-rotate-string](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0796-rotate-string) |
 | [1768-merge-strings-alternately](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1768-merge-strings-alternately) |
 | [2409-count-days-spent-together](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/2409-count-days-spent-together) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [1137-n-th-tribonacci-number](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1137-n-th-tribonacci-number) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
