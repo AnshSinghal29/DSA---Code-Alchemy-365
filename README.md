@@ -172,6 +172,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [1768-merge-strings-alternately](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1768-merge-strings-alternately) |
 | [2409-count-days-spent-together](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/2409-count-days-spent-together) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Dynamic Programming
 |  |
 | ------- |
