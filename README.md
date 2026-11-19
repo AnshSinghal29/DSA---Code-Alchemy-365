@@ -66,6 +66,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [2089-find-target-indices-after-sorting-array](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -127,6 +128,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0977-squares-of-a-sorted-array](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Binary Search
 |  |
@@ -205,6 +207,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0680-valid-palindrome-ii) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Simulation
 |  |
 | ------- |
