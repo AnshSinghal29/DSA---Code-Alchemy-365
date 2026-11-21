@@ -69,6 +69,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [2404-most-frequent-even-element](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/2404-most-frequent-even-element) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -178,6 +179,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [2409-count-days-spent-together](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/2409-count-days-spent-together) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -278,6 +280,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0349-intersection-of-two-arrays](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0387-first-unique-character-in-a-string) |
 | [2404-most-frequent-even-element](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/2404-most-frequent-even-element) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -406,6 +409,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | ------- |
 | [0079-word-search](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0079-word-search) |
 | [1254-number-of-closed-islands](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1254-number-of-closed-islands) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Interactive
 |  |
 | ------- |
@@ -430,6 +434,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Union-Find
 |  |
 | ------- |
