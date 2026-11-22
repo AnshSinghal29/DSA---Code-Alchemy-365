@@ -176,6 +176,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0680-valid-palindrome-ii](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0796-rotate-string) |
 | [1768-merge-strings-alternately](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/1768-merge-strings-alternately) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2409-count-days-spent-together](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/2409-count-days-spent-together) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
