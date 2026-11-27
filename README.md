@@ -80,6 +80,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [3875-construct-uniform-parity-array-i](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3875-construct-uniform-parity-array-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3934-smallest-unique-subarray](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -207,6 +208,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Greedy
 |  |
 | ------- |
@@ -219,6 +221,7 @@ A curated collection of daily algorithmic challenges and data structure implemen
 | [0561-array-partition](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/0680-valid-palindrome-ii) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/AnshSinghal29/DSA---Code-Alchemy-365/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Simulation
 |  |
 | ------- |
